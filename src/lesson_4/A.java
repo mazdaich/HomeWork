@@ -1,7 +1,5 @@
 package lesson_4;
 
-import lesson_3.Student;
-
 import java.io.*;
 
 public class A implements Serializable {
