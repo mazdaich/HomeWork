@@ -6,6 +6,4 @@ public abstract class CarServ {
     public void abc() {
         System.out.println("from ABC");
     }
-
-
 }
